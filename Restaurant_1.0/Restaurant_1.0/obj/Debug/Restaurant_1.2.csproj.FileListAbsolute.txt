@@ -1,0 +1,32 @@
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\Restaurant_1.0.exe.config
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\Restaurant_1.0.exe
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\Restaurant_1.0.pdb
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\zh-CN\Restaurant_1.0.resources.dll
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\CSkin.dll
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\CSkin.xml
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1.2.csprojResolveAssemblyReference.cache
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.body.resources
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.Form1.resources
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.Properties.Resources.resources
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.Register.resources
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.body.zh-CN.resources
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1.2.csproj.GenerateResource.Cache
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\zh-CN\Restaurant_1.0.resources.dll
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1.0.exe
+C:\Users\93116\Documents\Visual Studio 2017\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1.0.pdb
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\Restaurant_1.0.exe.config
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1.0.exe
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1.0.pdb
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\Restaurant_1.0.exe
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\Restaurant_1.0.pdb
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\zh-CN\Restaurant_1.0.resources.dll
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\CSkin.dll
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\bin\Debug\CSkin.xml
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1.2.csprojResolveAssemblyReference.cache
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.body.resources
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.Form1.resources
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.Properties.Resources.resources
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.Register.resources
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1._0.body.zh-CN.resources
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\Restaurant_1.2.csproj.GenerateResource.Cache
+C:\Users\93116\Desktop\Projects\Restaurant_1.0\Restaurant_1.0\obj\Debug\zh-CN\Restaurant_1.0.resources.dll
